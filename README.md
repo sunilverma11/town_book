@@ -64,7 +64,7 @@ npm install
 
 3. Start the frontend development server:
 ```bash
-npm start
+npm run dev
 ```
 
 ## Running the Application

@@ -71,8 +71,8 @@ npm run dev
 
 1. Start MongoDB service
 2. Start the backend server (runs on port 5000)
-3. Start the frontend development server (runs on port 3000)
-4. Access the application at http://localhost:3000
+3. Start the frontend development server (runs on port 5173)
+4. Access the application at http://localhost:5173
 
 ## Core Functional Modules
 

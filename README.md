@@ -74,6 +74,10 @@ npm run dev
 3. Start the frontend development server (runs on port 5173)
 4. Access the application at http://localhost:5173
 
+## Admin Credentials for test
+Email- admin@gmail.com
+Password - 123456
+
 ## Core Functional Modules
 
 ### 1. Catalog & Room Listings
